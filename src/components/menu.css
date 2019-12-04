@@ -1,0 +1,30 @@
+.menu-container {
+    position: absolute;
+    height: 100%;
+    width: 10vw;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 5;
+    margin-left: 4%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    font-size: 1.25vw;
+}
+
+.menu-item {
+  font-family: "Silka";
+  font-style: italic;
+  margin-bottom: 3%;
+  cursor: pointer;
+}
+
+.menu-item-selected {
+  font-family: "Silka";
+  font-style: italic;
+  border-bottom: 1px solid;
+  display: inline-block;
+  margin-bottom: 3%;
+  cursor: pointer;
+}

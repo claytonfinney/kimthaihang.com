@@ -1,0 +1,24 @@
+.title {
+
+  text-align: center;
+
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.email-content {
+
+
+  color: #979da6;
+}
+
+.message-content {
+
+
+  color: #979da6;
+}

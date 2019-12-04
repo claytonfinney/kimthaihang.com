@@ -1,0 +1,31 @@
+.about-text-container {
+  height: 60vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.about-title {
+  font-size: 4.6875vw;
+  font-family: Silka, sans-serif;
+  margin-bottom: 5%;
+}
+
+.about-text {
+  font-size: 1.5625vw;
+  font-family: Silka, sans-serif;
+}
+
+.about-image-container {
+  width: 50%;
+  height: 100%;
+  float: right;
+  background-color: green;
+}

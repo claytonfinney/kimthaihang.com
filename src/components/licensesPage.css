@@ -1,0 +1,86 @@
+.licenses-content-container {
+  height: 60vh;
+  width: 60vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+  top: 43%;
+  left: 53%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: Silka, sans-serif;
+}
+
+.licenses-content-text-container {
+  height: 60vh;
+  width: 60vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: absolute;
+  align-items: flex-start;
+  top: 85%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: Silka, sans-serif;
+}
+
+.licenses-title {
+  font-size: 4.6875vw;
+  font-family: Silka, sans-serif;
+  margin-bottom: 5%;
+}
+
+.licenses-text {
+  font-size: 1.5625vw;
+  font-family: Silka, sans-serif;
+}
+
+.licenses-image-container {
+  width: 50%;
+  height: 100%;
+  float: right;
+  background-color: green;
+}
+
+.license-state {
+
+}
+
+.license-cell {
+  
+}
+
+.single-license {
+  margin-bottom: 5%;
+}
+
+.license-state-img {
+  max-height: 55%;
+  max-width: 55%;
+}
+
+.license-state-name {
+  font-size: 1.5625vw;
+  font-style: italic;
+  color: #757575;
+  margin-top: 0%;
+  margin-bottom: 5%;
+}
+
+.license-single-license-name {
+  font-size: 1.25vw;
+  color: #757575;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.license-single-license-date {
+  font-size: 0.93vw;
+  color: #757575;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}

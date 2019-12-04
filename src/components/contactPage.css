@@ -1,0 +1,64 @@
+.contact-container {
+    font-family: Silka, sans-serif;
+    position: absolute;
+    height: 60vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.email-content {
+  color: #979da6;
+  text-align: center;
+  outline: none;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.message-content {
+  position: absolute;
+  color: #979da6;
+  text-align: center;
+  outline: none;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  word-wrap: beak-word;
+}
+
+.submit-button {
+  color: #979da6;
+  width: 50%;
+  text-align: center;
+  text-decoration: underline;
+  cursor: pointer;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.invalid-flash {
+  position: absolute;
+  top: 107%;
+  color: red;
+  width: 50%;
+  text-align: center;
+  font-size: 0.78125vw;
+}
+
+.invalid-flash-hidden {
+  display: none;
+}
+
+.submitted-thank-you {
+  font-size: 1.5vw;
+}

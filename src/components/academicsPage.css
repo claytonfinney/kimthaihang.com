@@ -1,0 +1,88 @@
+.academics-container {
+    height: 60vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.academics-text-container {
+  width: 40%;
+  height: 100%;
+  margin-left: 7%;
+  margin-right: -7%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.academics-title { 
+  font-size: 1.875vw;
+  font-family: Silka, sans-serif;
+  margin-bottom: 2%;
+  margin-top: 1%;
+}
+
+.academics-text {
+  font-size: 1.09375vw;
+  font-family: Silka, sans-serif;
+  margin-bottom: 2%;
+  white-space: overflow;
+}
+
+.academics-text-italics {
+  font-size: 1.25vw;
+  font-family: Silka, sans-serif;
+  margin-bottom: 2%;
+  font-style: italic;
+  white-space: overflow;
+}
+
+.academics-image-container {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: -10%;
+  margin-left: 10%;
+}
+
+.academics-image {
+  max-height: 85%;
+  max-width: 85%;
+  border-radius: 50%;
+  margin-top: 7%;
+}
+
+.text-spacer {
+  margin-right: 1.5625vw;
+}
+
+.icon-spacer {
+  display: inline;
+}
+
+.subtext {
+  font-size: 0.78125vw;
+  color: grey;
+  font-style: italic;
+  display: inline;
+  margin-left: 1.5%;
+  white-space: normal;
+}
+
+.subtext-under {
+  font-size: 0.78125vw;
+  color: grey;
+  font-style: italic;
+  display: inline;
+  white-space: normal;
+  margin-left: 7%;
+  margin-bottom: 2%;
+}
