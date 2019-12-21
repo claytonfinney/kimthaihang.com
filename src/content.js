@@ -33,7 +33,12 @@ export const content = {
                 "name": "Independence Blue Cross",
                 "position": "Managed Care Pharmacy Extern",
                 "location": "Philadelphia, PA",
-                "text": ["Insurance claims using PioneerRx Software", "LTC medical equipment sales", "Gained experience operating the Parata Max Automated Dispensing System", "Networking with local clinics, homeless shelters, and LTC facilities to obtain prior authorizations and refill requests"],
+                "text": [
+                    "Ensured patient safety by conducting medication education processes and compliance checks to ensure patient safety in patients with multifactorial and chronic diseases who were transitioning from acute care", 
+                    "Ensured patient safety by conducting medication education processes and compliance checks to ensure patient safety in patients with multifactorial and chronic diseases who were transitioning from acute care", 
+                    "Ensured patient safety by conducting medication education processes and compliance checks to ensure patient safety in patients with multifactorial and chronic diseases who were transitioning from acute care", 
+                    "Ensured patient safety by conducting medication education processes and compliance checks to ensure patient safety in patients with multifactorial and chronic diseases who were transitioning from acute care"
+                ],
                 "date": "July 2019 - August 2019",
                 "img_href": ""
             },
