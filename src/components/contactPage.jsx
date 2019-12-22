@@ -175,7 +175,6 @@ class ContactPage extends Component {
             <Animated animationIn="fadeIn" animationInDelay={1500}>
               <p 
                 className="submit-button"
-                onClick={this.sendMessage}
               >
                 Submit
               </p>
