@@ -1,6 +1,29 @@
+@font-face {
+    font-family: 'Silka';
+    src: url('./fonts/silka-regular-webfont.eot');
+    src: url('./fonts/silka-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/silka-regular-webfont.woff2') format('woff2'),
+         url('./fonts/silka-regular-webfont.woff') format('woff'),
+         url('./fonts/silka-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'SilkaItalic';
+    src: url('./fonts/silka-regularitalic-webfont.eot');
+    src: url('./fonts/silka-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/silka-regularitalic-webfont.woff2') format('woff2'),
+         url('./fonts/silka-regularitalic-webfont.woff') format('woff'),
+         url('./fonts/silka-regularitalic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  font-family: "Silka", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
