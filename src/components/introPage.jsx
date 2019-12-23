@@ -33,7 +33,7 @@ class IntroPage extends Component {
       <div className="intro-container">
         <div className="intro-text-container">
           <Typing speed={120} startDelay={500}>
-            <h3 className="intro-title">{"// " + header}</h3>
+            <h3 className="intro-title">{header}</h3>
           </Typing>
           <Animated animationIn="fadeInUp" animationInDelay={1000}>
             {text.map((line) =>

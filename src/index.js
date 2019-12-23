@@ -11,6 +11,7 @@ import './fonts/silka-regularitalic-webfont.eot';
 import './fonts/silka-regularitalic-webfont.woff2';
 import './fonts/silka-regularitalic-webfont.woff';
 import './fonts/silka-regularitalic-webfont.ttf';
+import './index.css';
 
 import FullPage from './components/fullPage';
 

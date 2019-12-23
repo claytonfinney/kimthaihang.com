@@ -1,6 +1,6 @@
 export const content = {
     "intro": {
-        "title": "Hello!",
+        "title": "// Hello!",
         "menu_title": "Home",
         "text": [
             " My name is Kimberly Thai-Hang. I'm a 2020 Pharm.D. candidate with a passion for inclusivity and futurology. This is my interactive resume: scroll down or use the arrow keys to learn more!" 
