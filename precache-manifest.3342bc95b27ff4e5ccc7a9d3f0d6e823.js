@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cead5fd67cbfd9e061013906aecb70f9",
+    "revision": "5fa9c5de87c0c8ca9a0f15c0585bc046",
     "url": "/index.html"
   },
   {
-    "revision": "26596dda22810463ef3d",
+    "revision": "158572d16c07c0b03b38",
     "url": "/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "cc7f143ac8f73ac2e56f",
+    "revision": "b13153612dc8c6033eca",
     "url": "/static/css/main.4eb03f8d.chunk.css"
   },
   {
-    "revision": "26596dda22810463ef3d",
-    "url": "/static/js/2.11d87632.chunk.js"
+    "revision": "158572d16c07c0b03b38",
+    "url": "/static/js/2.2cba4629.chunk.js"
   },
   {
-    "revision": "cc7f143ac8f73ac2e56f",
-    "url": "/static/js/main.83c4e890.chunk.js"
+    "revision": "b13153612dc8c6033eca",
+    "url": "/static/js/main.4b621d8d.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -66,6 +66,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5eae2e0b800a3e0f3edbddb16e2471f0",
     "url": "/static/media/ritner3.5eae2e0b.jpg"
+  },
+  {
+    "revision": "128dfd75c9cb63e4d0b276c3c823dc5e",
+    "url": "/static/media/silka-regular-webfont.128dfd75.woff"
+  },
+  {
+    "revision": "badc42e2be9598cac13af56e3f726d89",
+    "url": "/static/media/silka-regular-webfont.badc42e2.ttf"
+  },
+  {
+    "revision": "c8015761defa0db52e429b7de3641f08",
+    "url": "/static/media/silka-regular-webfont.c8015761.eot"
+  },
+  {
+    "revision": "d021db6114442981d146378cc7792d60",
+    "url": "/static/media/silka-regular-webfont.d021db61.woff2"
+  },
+  {
+    "revision": "46714fcca8cfaef92491b8af315034b9",
+    "url": "/static/media/silka-regularitalic-webfont.46714fcc.eot"
+  },
+  {
+    "revision": "67e0599ac45a1d4a0bdf16b58a58604e",
+    "url": "/static/media/silka-regularitalic-webfont.67e0599a.woff2"
+  },
+  {
+    "revision": "9e7b1ff5a2a4416efbfd2e61304e2742",
+    "url": "/static/media/silka-regularitalic-webfont.9e7b1ff5.woff"
+  },
+  {
+    "revision": "ba7fa7993a7272c4209a2c89c6e306c4",
+    "url": "/static/media/silka-regularitalic-webfont.ba7fa799.ttf"
   },
   {
     "revision": "91453660a7519299e881f6d118bd7b5f",
