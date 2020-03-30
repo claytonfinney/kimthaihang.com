@@ -53,11 +53,11 @@ class AppePage extends Component {
   }
 
   onClick = (e) => {  
-    this.setState({
-      currentLogo: this.state.logos[e.target.dataset.index].logo,
-      currentAppe: this.props.content.appeExperience.jobs[e.target.dataset.jobname],
-      currentAppeIndex: e.target.dataset.index
-    });
+//    this.setState({
+//      currentLogo: this.state.logos[e.target.dataset.index].logo,
+//      currentAppe: this.props.content.appeExperience.jobs[e.target.dataset.jobname],
+//      currentAppeIndex: e.target.dataset.index
+//    });
   }
 
   exitSingleView(e) {

@@ -32,7 +32,7 @@ class IntroPage extends Component {
     return (selected === index) ? (
       <div className="intro-container">
         <div className="intro-text-container">
-          <Typing speed={120} startDelay={500}>
+          <Typing speed={120} startDelay={1000}>
             <h3 className="intro-title">{header}</h3>
           </Typing>
           <Animated animationIn="fadeInUp" animationInDelay={1000}>
