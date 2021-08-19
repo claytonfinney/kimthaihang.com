@@ -3,7 +3,7 @@ export const content = {
         "title": "// Hello!",
         "menu_title": "Home",
         "text": [
-            " My name is Kimberly Thai-Hang. I'm a 2020 Pharm.D. candidate with a passion for inclusivity and futurology. This is my interactive resume: scroll down or use the arrow keys to learn more!" 
+            " I'm Dr. Kimberly Thai-Hang. I'm a California-licended 2020 Pharm.D. graduate with a passion for inclusivity and futurology. This is my interactive resume: scroll down or use the arrow keys to learn more!" 
         ],
         "linkedinLink": "https://www.linkedin.com/in/kthaihang/",
         "resumeLink": "https://clay-assets.s3.us-west-1.amazonaws.com/kim_thaihang_resume.pdf"
@@ -99,7 +99,7 @@ export const content = {
                     "Focused on rapport to establish recurring customer business",
                     "Filling and compounding medications"
                 ],
-                "date": "May 2015 - August 2015"
+                "date": "May 2015 - Current"
             },
             {
                 "name": "The Medicine Shoppe",
@@ -132,6 +132,12 @@ export const content = {
         "text": [""],
         "licenses": {
             "california": [
+                {
+                    "name": "Licensed Pharmacist",
+                    "location": "California",
+                    "text": "",
+                    "date": "(2021)"
+                },
                 {
                     "name": "Intern Pharmacist License",
                     "location": "California",
@@ -167,7 +173,7 @@ export const content = {
         "title": "For Fun",
         "menu_title": "Personal",
         "text": [
-            "As I mentioned, I love to cook, explore new foods, and take photos on my Canon AE-1 Program. I'm also into techno functions, fashion, and art of all kinds.",
+            "As I mentioned, I love to cook, bake, explore new foods, and take photos on my Canon AE-1 Program. I'm also into music, fashion, and art of all kinds.",
             "This section is under construction! Check back later for my pictures, writings, and whatever else I can share :)"
         ]
     },
