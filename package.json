@@ -15,7 +15,7 @@
     "react-animated-css": "^1.2.1",
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-typing-animation": "^1.6.2"
   },
   "scripts": {
